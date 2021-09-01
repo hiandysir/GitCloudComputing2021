@@ -22,6 +22,11 @@
 
 # 需要完成的練習
 
+## MarkDown 入門練習
+- 參考教程 https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e
+- 用即時協作的 Markdown 編輯器書寫 https://hackmd.io/c/tutorials-tw/%2Fs%2Ftutorials-tw
+- 中文版 小抄 https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e
+
 ## Git 入門  
 - 教程參考  https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-%E9%97%9C%E6%96%BC%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6
 - Git 官方下載 https://git-scm.com/downloads
