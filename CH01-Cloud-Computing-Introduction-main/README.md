@@ -32,6 +32,7 @@
 - Git 官方下載 https://git-scm.com/downloads
 - 教程參考 https://www.liaoxuefeng.com/wiki/896043488029600 
 - 教程參考（for Apple) https://www.appcoda.com.tw/git-xcode/
+- 教程參考 https://github.com/doggy8088/Learn-Git-in-30-days
 
 ## GitHub 入門操作  
 
