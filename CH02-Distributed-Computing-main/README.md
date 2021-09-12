@@ -14,6 +14,7 @@
 3.	通过了解区块链的背景，说说你所理解的区块链做为一种分布式系统背后的全新理念。
 
 ## 动手实践
+### 實踐 1 HTCondor
 HTCondor是一个专门用于计算密集型作业的负载管理系统，它为用户提供了作业排队机制、调度策略、优先计划、资源监测和资源管理，诞生于美国Wisconsin大学Madison分校。
 
 	任务：通过HTCondor的官方网站https://research.cs.wisc.edu/htcondor/，下载并安装使用HTCondor，了解它是如何实现大吞吐量计算过程的。
@@ -51,6 +52,17 @@ https://www.youtube.com/watch?v=p2X6s_7e51k
 
 軟件下載地址
 https://research.cs.wisc.edu/htcondor/tarball/8.8/8.8.12/release/
+
+### 實踐 2 HTCondor
+
+JumpServer 是全球首款开源的堡垒机，使用 GNU GPL v2.0 开源协议，是符合 4A 规范的运维安全审计系统。
+JumpServer 使用 Python 开发，遵循 Web 2.0 规范，配备了业界领先的 Web Terminal 方案，交互界面美观、用户体验好。
+JumpServer 采纳分布式架构，支持多机房跨区域部署，支持横向扩展，无资产数量及并发限制。
+
+任务：通过 開源項目 https://github.com/jumpserver/jumpserver 部 JumpServer 堡垒机, 並了解其工作過程。
+體驗網站： https://demo.jumpserver.org/core/auth/login/ 
+介紹視頻：https://www.bilibili.com/video/BV1ZV41127GB 
+
 
 ## 參考文獻
 第2章 分布式原理
