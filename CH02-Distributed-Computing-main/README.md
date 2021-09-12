@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=p2X6s_7e51k
 軟件下載地址
 https://research.cs.wisc.edu/htcondor/tarball/8.8/8.8.12/release/
 
-### 實踐 2 HTCondor
+### 實踐 2 JumpServer
 
 JumpServer 是全球首款开源的堡垒机，使用 GNU GPL v2.0 开源协议，是符合 4A 规范的运维安全审计系统。
 JumpServer 使用 Python 开发，遵循 Web 2.0 规范，配备了业界领先的 Web Terminal 方案，交互界面美观、用户体验好。
