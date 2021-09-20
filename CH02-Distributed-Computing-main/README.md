@@ -64,6 +64,8 @@ JumpServer 采纳分布式架构，支持多机房跨区域部署，支持横向
 
 介紹視頻：https://www.bilibili.com/video/BV1ZV41127GB 
 
+安裝視頻：https://www.bilibili.com/video/bv19a4y1i7i9 
+
 在Docker裡安裝JumperSever https://github.com/jumpserver/Dockerfile
 
 
