@@ -18,6 +18,7 @@
 2.	Docker是目前最流行的轻量级虚拟化解决方案，并开始在越来越多的场合中替代传统的虚拟机技术。
 -- 任务：通过Docker的官方网站https://www.docker.com/，下载并安装使用最新的Docker，进一步了解Docker的原理。
 -- 任务：通过基准测试程序对容器和传统虚拟机的性能进行评测和比较。
+-- 參考：https://www.runoob.com/docker/docker-tutorial.html 
 
 
 ## 參考文獻
