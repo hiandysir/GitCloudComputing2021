@@ -19,6 +19,7 @@
 -- 任务：通过Docker的官方网站https://www.docker.com/，下载并安装使用最新的Docker，进一步了解Docker的原理。
 -- 任务：通过基准测试程序对容器和传统虚拟机的性能进行评测和比较。
 -- 參考：https://www.runoob.com/docker/docker-tutorial.html 
+-- 官網安裝教程： https://docs.docker.com/engine/install/
 
 
 ## 參考文獻
