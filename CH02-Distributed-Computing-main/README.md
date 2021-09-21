@@ -23,7 +23,10 @@ HTCondor是一个专门用于计算密集型作业的负载管理系统，它为
 
 HTConda 入門簡介
 內容來自互聯網 僅供參考
+官方安裝文檔
+https://htcondor.readthedocs.io/en/latest/getting-htcondor/install-linux-as-root.html
 
+第三方介紹
 高通量计算框架HTCondor(一)——概述
 https://www.cnblogs.com/charlee44/p/12204715.html
 
