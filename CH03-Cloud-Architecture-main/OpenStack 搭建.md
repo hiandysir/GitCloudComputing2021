@@ -1,5 +1,7 @@
 感謝：刘元坤
 
+官方安裝文檔： https://docs.openstack.org/install-guide/
+
 # OpenStack 搭建
 
 ## 环境准备
