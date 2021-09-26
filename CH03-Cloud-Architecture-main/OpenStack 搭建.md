@@ -1,6 +1,7 @@
 感謝：刘元坤
 
 官方安裝文檔： https://docs.openstack.org/install-guide/
+
 官方 DevStack 安裝 OpenStack https://kairen.gitbooks.io/openstack-centos/content/deployments/index.html 
 
 其他參考：https://kairen.gitbooks.io/openstack-centos/content/deployments/index.html
