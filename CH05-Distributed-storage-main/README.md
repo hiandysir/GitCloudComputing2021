@@ -7,7 +7,9 @@
 4.	是比较不同文件系统的特点。
 
 參考視頻：深入浅出Google File System    https://www.youtube.com/watch?v=WLad7CCexo8
+
 參考視頻：深入浅出BigTable              https://www.youtube.com/watch?v=r1bh90_8dsg
+
 參考視頻：深入浅出讲解 MapReduce        https://www.youtube.com/watch?v=Rz8JCS9TfOQ
 
 ## 课外思考
