@@ -6,6 +6,10 @@
 3.	SAN和NAS的区别是什么？
 4.	是比较不同文件系统的特点。
 
+參考視頻：深入浅出Google File System    https://www.youtube.com/watch?v=WLad7CCexo8
+參考視頻：深入浅出BigTable              https://www.youtube.com/watch?v=r1bh90_8dsg
+參考視頻：深入浅出讲解 MapReduce        https://www.youtube.com/watch?v=Rz8JCS9TfOQ
+
 ## 课外思考
 1.	是否存在一种文件系统能够应对所有类型的文件存储？为什么？
 2.	Paxos的原理和机制是什么？
