@@ -1,0 +1,36 @@
+#OpenStack安装
+
+
+安装参考 https://zhuanlan.zhihu.com/p/28996062
+
+安装步骤
+1、 配置Ubuntu apt source源
+sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
+sudo vim /etc/apt/sources.list
+sudo apt update
+
+2、配置pip源
+sudo mkdir /root/.pip
+sudo vim /root/.pip/pip.conf
+
+3、下载devstack
+git clone https://git.openstack.org/openstack-dev/devstack
+cd devstack
+git checkout remotes/origin/stable/queens
+git checkout -b queens
+
+4、配置devstack local.conf
+cp samples/local.conf ./
+vim local.conf
+
+5、安装
+./stack.sh
+
+
+遇到的问题和解决方法
+1、vim、git找不到命令
+解决方法：apt-get install vim/ apt-get install git
+
+2、./stack.sh:227:die
+[ERROR] ./stack.sh:227 If you wish to run this script anyway run with FORCE=yes
+解决方法：根据提示加跳过参数运行脚本 FORCE=yes ./stack.sh
