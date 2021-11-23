@@ -8,6 +8,10 @@ author:Damon
 
 
 
+本文主要是将docker的基本命令（镜像和容器——增删改查）、dockerfile的使用、容器卷的使用、docker的网络原理、最后到Docker compose的部署等学习过程源码复制下来。
+
+笔者的学习过程主要是：学习命令，结合实践的方式来巩固学习的过程，加深代码的印象。
+
 ### Docker的安装过程：
 
 #### 将dockers安装到ubuntu
