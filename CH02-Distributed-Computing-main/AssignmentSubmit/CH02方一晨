@@ -1,0 +1,23 @@
+#Jumpserve安装
+
+安装步骤
+1、安装vmware虚拟机
+2、在vmware中创建ubuntu linux虚拟机
+3、安装jumpserve
+
+遇到的问题及解决方法
+1、
+E：无法打开锁文件 /var/lib/dpkg/lock-frontend - open (13:权限不够）
+E：无法获取 dpkg 前端锁 （/var/lib/dpkg/lock-frontend），请查看您是否正以 root 用户运行？
+解决方法：终端内输入sudo passwd root，然后根据提示一步步设置root密码，来获取权限。
+2、
+Command ‘curl’ not found， but be installed with：
+解决方法：终端内输入apt-get install curl
+
+
+
+#htconder安装
+
+安装步骤
+直接在终端输入代码即可
+curl -fsSL https://get.htcondor.org | sudo /bin/bash -s -- --no-dry-run

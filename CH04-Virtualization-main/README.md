@@ -6,6 +6,10 @@
 3.	硬件虚拟化技术有哪些代表？
 4.	什么是轻量级虚拟化技术？其代表是什么？
 
+## 參考學習視頻
+Docker：Docker[2021] 1小时快速入门 -- Mosh https://www.bilibili.com/video/BV14v41137F6
+
+
 ## 课外思考
 1.	虚拟化技术对计算资源的利用率究竟带来了怎样的好处？
 2.	轻量级虚拟化技术相对于传统虚拟化技术的优势和不足是什么？
@@ -16,10 +20,12 @@
 -- 任务：通过KVM的官方网站https://www.linux-kvm.org/，下载并安装使用KVM，进一步了解KVM的原理。
 -- 任务：通过Phoronix基准测试程序（Benchmark）对一个KVM系统的性能进行评测和比较。
 2.	Docker是目前最流行的轻量级虚拟化解决方案，并开始在越来越多的场合中替代传统的虚拟机技术。
--- 任务：通过Docker的官方网站https://www.docker.com/，下载并安装使用最新的Docker，进一步了解Docker的原理。
--- 任务：通过基准测试程序对容器和传统虚拟机的性能进行评测和比较。
--- 參考：https://www.runoob.com/docker/docker-tutorial.html 
--- 官網安裝教程： https://docs.docker.com/engine/install/
+    -- 任务：通过Docker的官方网站https://www.docker.com/，下载并安装使用最新的Docker，进一步了解Docker的原理。
+    -- 任务：通过基准测试程序对容器和传统虚拟机的性能进行评测和比较。
+        -- 參考：https://www.runoob.com/docker/docker-tutorial.html 
+        -- 官網安裝教程： https://docs.docker.com/engine/install/
+    -- 任務：Docker 容器操作基础知识 (Docker 入门教程 - 2021 最新版.md)
+    -- 任務：Docker 镜像操作基础知识(Docker 入门教程 - 2021 最新版.md)
 
 
 ## 參考文獻
