@@ -142,6 +142,7 @@ export YARN_NODEMANAGER_USER=root
 
 core-site.xml添加内容
 
+~~~xml
 <configuration>
 
   <property>
@@ -161,11 +162,13 @@ core-site.xml添加内容
   </property>
 
 </configuration>
+~~~
 
 
 
 hdfs-site.xml添加内容
 
+~~~xml
 <configuration>
 
   <property>
@@ -193,11 +196,13 @@ hdfs-site.xml添加内容
   </property>
 
 </configuration>
+~~~
 
 
 
 mapred-site.xml添加内容
 
+~~~xml
 <configuration>
 
   <property>
@@ -237,11 +242,13 @@ mapred-site.xml添加内容
   </property>
 
 </configuration>
+~~~
 
 
 
 yarn-site.xml添加内容
 
+~~~xml
 <configuration>
 
   <property>
@@ -261,6 +268,7 @@ yarn-site.xml添加内容
   </property>
 
 </configuration>
+~~~
 
 
 
